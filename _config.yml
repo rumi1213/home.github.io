@@ -2,7 +2,7 @@
 title: My Awesome Website
 
 # テーマの指定
-theme: jekyll-theme-hacker
+theme: cayman-theme
 
 # ページの表示形式（通常はmarkdownを使用）
 markdown: kramdown
