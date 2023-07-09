@@ -1,0 +1,25 @@
+# サイトのタイトル
+title: My Awesome Website
+
+# テーマの指定
+theme: jekyll-theme-hacker
+
+# ページの表示形式（通常はmarkdownを使用）
+markdown: kramdown
+
+# メニューの設定
+header_pages:
+  - Home: /
+
+# ソーシャルメディアのリンク
+social:
+  - title: GitHub
+    url: https://github.com/rumi1213
+  - title: Twitter
+    url: https://twitter.com/iranaiyairanai
+
+# Google AnalyticsのトラッキングID
+# google_analytics: UA-12345678-9
+
+# フッターに表示するテキスト
+footer_text: Copyright © 2023 My Awesome Website.
